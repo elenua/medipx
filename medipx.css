@@ -1,0 +1,15 @@
+
+.company-title{
+	margin-top: 0px;
+}
+.categories{
+	display: inline-block;
+}
+a:link
+{
+color:#333;
+}
+a:hover {
+    color: green;
+}
+
